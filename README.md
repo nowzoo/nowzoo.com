@@ -1,2 +1,0 @@
-# nowzoo.com
-NowZoo Website
